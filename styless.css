@@ -1,0 +1,55 @@
+.header{
+    background-color: #282c34;
+    margin : 10px;
+    padding: 10px;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size:30px;
+    color: blue;
+    border-radius: 30px;
+}
+
+.button{
+   position: relative;
+   border-radius: 30px;
+   display: inline-block;
+   padding: 10px 30px;
+   margin: 10px 0;
+   color: #fff;
+   text-decoration: none;
+   font: size 1px;
+   letter-spacing :1px;
+   border: radius 40px;
+   background:linear-gradient(90deg, #0162c8,#55e7fc);
+
+}
+
+.login{
+    
+   border-radius: 400px;
+   display: inline-block;
+   padding: 10px 30px;
+   margin: 10px 0;
+   color: #fff;
+   text-decoration: none;
+   font: size 1px;
+   letter-spacing :1px;
+   border: radius 40px;
+   background:linear-gradient(90deg, black,#55e7fc);
+}
+
+.sign{
+    border-radius: 10px;
+   display: inline-block;
+   padding: 10px 30px;
+   margin: 10px 0;
+   color: #fff;
+   text-decoration: none;
+   font: size 1px;
+   letter-spacing :1px;
+   border: radius 40px;
+   background:linear-gradient(90deg, black,#55e7fc);
+}
